@@ -5,7 +5,7 @@
         "generated_at": ""
     },
     "2025-12-17": {
-        "content": "Error generating report: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",
+        "content": "# 2025-12-17 IT 트렌드 인사이트 보고서\n\nEditor's Note 📝  \nAI 중심의 하드웨어·소프트웨어 생태계가 더욱 결집하면서 특정 기업(예: Nvidia)이 모델을 ‘무료’로 배포할 수 있는 힘을 갖게 됐습니다. 그 여파로 서버 수요와 자본지출이 단기간에 폭증했지만, 이 흐름의 지속 가능성에 대한 의문도 커지고 있습니다. 동시에 전통적 HPC 스택(예: GPFS)을 클라우드로 옮기려는 시도가 늘며 저장소 설계와 운영 방식의 전환이 가속화되고 있습니다.\n\n---\n\n## 🔷 AI / 플랫폼\n- Nvidia Is The Only AI Model Maker That Can Afford To Give It Away  \n  Nvidia는 하드웨어 수익성으로 소프트웨어·모델을 사실상 보조해 생태계 표준화와 영향력을 확장하고 있다. 다른 기업들은 동일한 전략을 지속하기 어려워 경쟁 구도가 심화될 전망이다.  \n  [기사보기](https://www.nextplatform.com/2025/12/16/nvidia-is-the-only-ai-model-maker-that-can-afford-to-give-it-away/)\n\n---\n\n## 🖥️ 서버 · 인프라 · 시장\n- How Sustainable Is This Crazy Server Spending?  \n  IDC 자료를 바탕으로 최근 GenAI 붐이 서버 매출을 급증시켰음을 시각화해 보여준다. 단기적 폭발적 수요가 장기적 지속 가능성(수익성과 공급망·자본 부담)에 어떤 영향을 미칠지 경계가 필요하다.  \n  [기사보기](https://www.nextplatform.com/2025/12/16/how-sustainable-is-this-crazy-server-spending/)\n\n---\n\n## ☁️ 스토리지 · 클라우드 · HPC\n- What Do You Do When You Want GPFS On The Cloud?  \n  전통적 HPC/AI 기관들이 선호하는 GPFS(IBM Storage Scale)를 클라우드 환경에서 구현·대체하려는 고민이 확대되고 있다. 클라우드 네이티브 대안과 호환성·성능·운영성의 균형을 맞추는 방안들이 중요해졌다.  \n  [기사보기](https://www.nextplatform.com/2025/12/16/what-do-you-do-when-you-want-gpfs-on-the-cloud/)\n\n---\n\n필요하시면 각 토픽별 영향도가 큰 기업·기술 리스트나, 한국 시장 관점의 시사점(투자·운영·채용 영향)도 별도 정리해드리겠습니다.",
         "raw_count": 3,
         "generated_at": ""
     }
